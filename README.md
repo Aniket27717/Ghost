@@ -1,11 +1,11 @@
-# Ghost
 <!doctype html>
 <html lang="en"> 
 <head> 
     <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <title>Firebase Authentication</title> 
-    <link rel="stylesheet href="https://github.com/Aniket27717/Ghost/blob/main/style.css"><!-- Link to the external JS file -->
+    <!-- Link to the external CSS file -->
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/Aniket27717/Ghost/main/style.css">
 </head> 
 <body> 
     <div class="container"> 
@@ -18,4 +18,7 @@
         <p id="status" style="color: red;"></p> 
     </div> 
 
-</body></html>
+    <!-- Link to the external JS file -->
+    <script type="module" src="script.js" defer></script>
+</body>
+</html>
