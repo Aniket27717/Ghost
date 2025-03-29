@@ -5,8 +5,7 @@
     <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <title>Firebase Authentication</title> 
-    <link rel="stylesheet" href="https://raw.githubusercontent.com/Aniket27717/Ghost/main/style.css">
-<script type="module" src="https://raw.githubusercontent.com/Aniket27717/Ghost/main/script.js" defer></script> <!-- Link to the external JS file -->
+    <link rel="stylesheet href="https://github.com/Aniket27717/Ghost/blob/main/style.css"><!-- Link to the external JS file -->
 </head> 
 <body> 
     <div class="container"> 
