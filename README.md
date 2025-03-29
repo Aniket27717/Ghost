@@ -5,8 +5,8 @@
     <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <title>Firebase Authentication</title> 
-    <link rel="stylesheet" href="styles.css"> <!-- Link to the external CSS file -->
-    <script type="module" src="script.js" defer></script> <!-- Link to the external JS file -->
+    <link rel="stylesheet" href="styles.html"> <!-- Link to the external CSS file -->
+    <script type="module" src="script.html" defer></script> <!-- Link to the external JS file -->
 </head> 
 <body> 
     <div class="container"> 
