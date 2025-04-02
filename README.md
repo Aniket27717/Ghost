@@ -244,12 +244,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const password = "Ghost"; // Set your password here
     let userInput = prompt("Enter the password to access the chat:");
 
-    if (userInput !== password) {
-        alert("Incorrect password try again !! ");
-        window.location.href="http://www.incorrect--password.com/";
-    }
-});
-
 </script> 
  
 </body></html>
