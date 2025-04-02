@@ -6,7 +6,7 @@
   <title>Sign In</title> <!-- Firebase SDK --> 
   <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script> 
   <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script> 
-  <link rel="stylesheet" href="styles.css"> 
+  <link rel="stylesheet" href="style.css"> 
  </head> 
  <body> 
   <div class="login-container"> 
